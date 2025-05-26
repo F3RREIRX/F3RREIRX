@@ -20,7 +20,7 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
 <table>
   <tr>
     <td width="120">
-      <img src="https://64.media.tumblr.com/a40b37fc387b14d51109c46ed78e82e8/e87f7b03b3b83c71-4d/s400x600/98981c3e1b0021eaf140b2f94dd18655730c9533.gifv" alt="gif fofo" width="100" />
+      <img src="https://minecraft.wiki/images/thumb/Enchanted_Diamond_Pickaxe.gif/120px-Enchanted_Diamond_Pickaxe.gif?c7aaa" alt="gif fofo" width="100" />
     </td>
     <td>
       <h1>Experience and Tools <3</h1>
