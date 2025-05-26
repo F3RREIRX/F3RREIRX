@@ -4,9 +4,10 @@
       <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" alt="gif fofo" width="100" />
     </td>
     <td>
-      <h1>Hello <3</h1>
+      <h1>HELLO/h1>
       <p>
-    LUQUETA
+    
+I am a <b>FERREIRA</b>, I am an intermediate programmer, I study and know languages ​​such as CSS, JavaScript, HTML, Lua, PHP; I have knowledge about cyber security.
       </p>
     </td>
   </tr>
