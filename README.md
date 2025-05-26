@@ -26,14 +26,10 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
       <h1>Experience and Tools <3</h1>
       <p>
       <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-      <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-      <a href="https://dbeaver.io/" target="_blank"><img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/></a>
-      <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></a>
-      <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-      <a href="https://www.sololearn.com/" target="_blank"><img src="https://img.shields.io/badge/SoloLearn-3a464b?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
+      <a href="https://www.canva.com/" target="_blank"><img src="file:///C:/Users/ghost/Downloads/imagem.html"/></a>
+      <a href="https://www.lua.org/portugues.html"><img src="https://img.shields.io/badge/SoloLearn-3a464b?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
       </p>
     </td>
   </tr>
