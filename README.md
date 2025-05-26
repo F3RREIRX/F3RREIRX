@@ -7,7 +7,7 @@
       <h1>HELLO/h1>
       <p>
     
-I am a <b>FERREIRA</b>, I am an intermediate programmer, I study and know languages ​​such as CSS, JavaScript, HTML, Lua, PHP; I have knowledge about cyber security.
+I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know languages ​​such as CSS, JavaScript, HTML, Lua, PHP; I have knowledge about cyber security.
       </p>
     </td>
   </tr>
