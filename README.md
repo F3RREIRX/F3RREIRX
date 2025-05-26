@@ -23,13 +23,13 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
       <img src="https://minecraft.wiki/images/thumb/Enchanted_Diamond_Pickaxe.gif/120px-Enchanted_Diamond_Pickaxe.gif?c7aaa" width="100" />
     </td>
     <td>
-      <h1>Experience and Tools <3</h1>
+      <h1>Experience</h1>
       <p>
-      <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-      <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></a>
-      <a href="https://www.github.com/"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+     <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -53,7 +53,7 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
       <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Enchanted_Diamond_Sword.gif/revision/latest?cb=20201118111712" width="100" />
     </td>
     <td>
-      <h1>Socials <3</h1>
+      <h1>Socials</h1>
       <p>
       <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
