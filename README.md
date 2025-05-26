@@ -14,7 +14,7 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
 </table>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/8f7f3f1d4904f119e290dc7be84a49c4/abd43fd6b15dc4e8-3c/s2048x3072/6a241bbf122366417564548be82009fd80cb5d28.pnj" alt="linha rosa decorativa" height ="10px" width="100%"/>
+  <img src="https://64.media.tumblr.com/8f7f3f1d4904f119e290dc7be84a49c4/abd43fd6b15dc4e8-3c/s2048x3072/6a241bbf122366417564548be82009fd80cb5d28.pnj" alt="linha azul decorativa" height ="10px" width="100%"/>
 </p>
 
 <table>
