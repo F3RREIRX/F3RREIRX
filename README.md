@@ -23,7 +23,7 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
       <img src="https://minecraft.wiki/images/thumb/Enchanted_Diamond_Pickaxe.gif/120px-Enchanted_Diamond_Pickaxe.gif?c7aaa" width="100" />
     </td>
     <td>
-      <h1>Experience</h1>
+      <h1>Experience ♔</h1>
       <p>
      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -53,7 +53,7 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
       <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Enchanted_Diamond_Sword.gif/revision/latest?cb=20201118111712" width="100" />
     </td>
     <td>
-      <h1>Socials</h1>
+      <h1>Socials ♙</h1>
       <p>
       <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
