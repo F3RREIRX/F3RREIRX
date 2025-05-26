@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="120">
-      <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width="100" />
+      <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Enchanted_Diamond_Sword.gif/revision/latest?cb=20201118111712" width="100" />
     </td>
     <td>
       <h1>HELLO ♘</h1>
