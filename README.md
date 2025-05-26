@@ -40,7 +40,7 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
 </p>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/71efebce46f7e7434e1196317bb94b14/8c6e4d4d3fb09681-b1/s250x400/66af748c082d13ddac826d9e41d6759f6cebc03d.gifv" alt="cute gif" width="220" />
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F64rdrjmesq761.gif%3Fwidth%3D704%26auto%3Dwebp%26s%3De3543323e9ff8e5addac3fcb24ef1fdeb4775fab" width="220" />
 </div>
 
 <p align="center">
