@@ -28,7 +28,7 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
       <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-      <a href="https://www.canva.com/" target="_blank"><img src="file:///C:/Users/ghost/Downloads/imagem.html"/></a>
+      <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></a>
       <a href="https://www.lua.org/portugues.html"><img src="https://img.shields.io/badge/SoloLearn-3a464b?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
       </p>
     </td>
