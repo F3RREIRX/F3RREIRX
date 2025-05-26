@@ -6,9 +6,7 @@
     <td>
       <h1>Hello <3</h1>
       <p>
-      My name is Mell Campos!  
-      I'm currently a student at AMF, deeply interested in <strong>UX/UI</strong>, <strong>front-end development</strong>, <strong>technical assistance</strong>, and <strong>data science</strong>.<br>
-      I'm in my fifth semester of the <strong>Information Systems</strong> course and super excited about <strong>creative solutions</strong> and <strong>active learning</strong>. ✨
+    LUQUETA
       </p>
     </td>
   </tr>
