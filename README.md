@@ -52,7 +52,7 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
     <td width="120">
       <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Enchanted_Diamond_Sword.gif/revision/latest?cb=20201118111712" width="100" />
     </td>
-    </td>
+    <td>
       <h1>Socials ♙</h1>
       <p>
       <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
