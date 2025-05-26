@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="120">
-      <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" alt="gif fofo" width="100" />
+      <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" width="100" />
     </td>
     <td>
       <h1>HELLO ♘</h1>
@@ -14,7 +14,7 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
 </table>
 
 <p align="center">
-  <img src="https://yata-apix-ff18e6db-3fe6-4a00-9cee-bb11fae63f8f.s3-object.locaweb.com.br/e4eb4c3fd04f482a83ae045d7fdaa58a.png" alt="linha azul decorativa" height ="10px" width="100%"/>
+<hr>
 </p>
 
 <table>
