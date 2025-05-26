@@ -50,7 +50,7 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
 <table align="center">
   <tr>
     <td width="120">
-      <img src="https://64.media.tumblr.com/271932293e450e46f719bdc9ede49be2/e87f7b03b3b83c71-4f/s400x600/f4acec7de11a01f345dc2f4ec6ce4a287f1cee8e.gifv" alt="gif fofo" width="100" />
+      <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Enchanted_Diamond_Sword.gif/revision/latest?cb=20201118111712" width="100" />
     </td>
     <td>
       <h1>Socials <3</h1>
