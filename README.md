@@ -67,4 +67,4 @@ I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know la
  <hr>
 </p>
 
-<h3 align="center">Thanks for stopping by <3</h3>
+<h3 align="center">May the force be with you 🧙🏼‍♂️</h3>
