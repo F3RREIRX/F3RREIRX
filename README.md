@@ -4,7 +4,7 @@
       <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Enchanted_Diamond_Shovel.gif/revision/latest?cb=20201118111657" alt="gif fofo" width="100" />
     </td>
     <td>
-      <h1>HELLO/h1>
+      <h1>HELLO 🖖</h1>
       <p>
     
 I am a <b>FERREIRA</b>, I am an intermediate programmer,<br> I study and know languages ​​such as CSS, JavaScript, HTML, Lua, PHP;<br> I have knowledge about cyber security.
